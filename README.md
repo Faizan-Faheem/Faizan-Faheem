@@ -6,9 +6,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Drone Project**
 
-- 🌱 I’m currently learning **Ffmpeg, MongoDb**
+- 🌱 I’m currently learning **MongoDb**
 
 - 💬 Ask me about **reactjs, nodejs, expressjs, webrtc,**
 
